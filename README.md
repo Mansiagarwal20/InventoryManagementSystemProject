@@ -1,1 +1,1 @@
-# InventoryManagementSystemProject
+# Inventory Management System Project
